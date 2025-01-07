@@ -1,0 +1,50 @@
+[
+    {
+        "id_nomor": "001",
+        "wisata": "Y",
+        "traveler": "Y",
+        "tempat": "Gunung Kelud",
+        "biaya": 20000,
+        "tentang": "Gunung Kelud adalah salah satu gunung berapi aktif di Indonesia yang terletak di Kediri, Jawa Timur. Gunung ini terkenal dengan pemandangan indah dan danau kawahnya."
+    },
+    {
+        "id_nomor": "002",
+        "wisata": "Y",
+        "traveler": "Y",
+        "tempat": "Gua Selomangleng",
+        "biaya": 10000,
+        "tentang": "Gua Selomangleng adalah situs sejarah di Kediri yang memiliki nilai arkeologis dan sejarah yang tinggi. Gua ini sering dikunjungi untuk melihat relief kuno di dalamnya."
+    },
+    {
+        "id_nomor": "003",
+        "wisata": "Y",
+        "traveler": "Y",
+        "tempat": "Air Terjun Dolo",
+        "biaya": 15000,
+        "tentang": "Air Terjun Dolo terletak di daerah pegunungan Wilis, Kediri. Tempat ini menawarkan pemandangan air terjun yang indah dan suasana sejuk, sempurna untuk rekreasi alam."
+    },
+    {
+        "id_nomor": "004",
+        "wisata": "Y",
+        "traveler": "Y",
+        "tempat": "Museum Airlangga",
+        "biaya": 5000,
+        "tentang": "Museum Airlangga di Kediri menyimpan berbagai koleksi peninggalan sejarah dan arkeologi dari era kerajaan Kediri, termasuk patung dan artefak lainnya."
+    },
+    {
+        "id_nomor": "005",
+        "wisata": "Y",
+        "traveler": "Y",
+        "tempat": "Taman Kilisuci",
+        "biaya": 0,
+        "tentang": "Taman Kilisuci adalah taman kota yang terletak di pusat Kediri. Taman ini menawarkan ruang terbuka hijau untuk rekreasi dan relaksasi bersama keluarga."
+    },
+    {
+        "id_nomor": "006",
+        "wisata": "Y",
+        "traveler": "Y",
+        "tempat": "Simpang Lima Gumul",
+        "biaya": 0,
+        "tentang": "Simpang Lima Gumul adalah monumen ikonik di Kediri yang menyerupai Arc de Triomphe di Paris. Tempat ini adalah salah satu spot foto favorit bagi wisatawan."
+    }
+]

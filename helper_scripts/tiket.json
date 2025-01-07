@@ -1,0 +1,14 @@
+[
+  {
+    "id_tiket": "b1a9c10d-2b33-4e0e-9c4f-9d4f1e7b3f00",
+    "waktu_pesan": "2024-05-18 14:30:00"
+  },
+  {
+    "id_tiket": "a2f8c2d3-3c56-4f0e-9d8e-8a5f2e8b4e11",
+    "waktu_pesan": "2024-05-18 15:00:00"
+  },
+  {
+    "id_tiket": "c3e7d3e4-4d78-5f1e-9e7f-7a6f3e9b5f22",
+    "waktu_pesan": "2024-05-18 15:30:00"
+  }
+]

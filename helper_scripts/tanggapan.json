@@ -1,0 +1,26 @@
+[
+  {
+    "tanggapan_string": "Saya suka wisatanya",
+    "tipe": "positive"
+  },
+  {
+    "tanggapan_string": "Ini adalah tur yang menyenangkan",
+    "tipe": "positive"
+  },
+  {
+    "tanggapan_string": "Ini adalah tur yang sangat buruk",
+    "tipe": "negative"
+  },
+  {
+    "tanggapan_string": "Tur ini tidak menyenangkan",
+    "tipe": "negative"
+  },
+  {
+    "tanggapan_string": "Tur ini sangat membosankan",
+    "tipe": "negative"
+  },
+  {
+    "tanggapan_string": "Tur ini luar biasa",
+    "tipe": "positive"
+  }
+]
